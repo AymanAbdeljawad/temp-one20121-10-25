@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="header">
+        <div class="bg-shadow">
+            <div class="header-content">
+                <div class="contener">
+                    <div class="logo">
+                        logo
+                    </div>
+                    <ul>
+                        <li><a href="#">home</a></li>
+                        <li><a href="#">about</a></li>
+                        <li><a href="#">team</a></li>
+                        <li><a href="#">prodict</a></li>
+                        <li><a href="#">phons</a></li>
+                        <li><a href="#">serves</a></li>
+                        <li><a href="#">content_us</a></li>
+                        <li><a href="#">pog</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                </div> <!-- ./contenr -->
+            </div> <!-- ./header-content -->
+
+            <div class="header-title">
+                <h3 class="head-title">Lorem ipsum dolor sit amet.</h3>
+                <p class="head-desc">
+                    lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                     Sit eius velit ullam ab commodi laboriosam labore laborum 
+                     numquam expedita doloremque.
+                </p>
+                <button class="head-btn head-btn1">get started!</button>
+                <button class=" head-btn head-btn2">dolor post</button>
+            </div>
+
+
+
+        </div> <!-- ./bg-shadow -->
+    </div> <!-- ./header -->
+   
+</body>
+
+</html>
